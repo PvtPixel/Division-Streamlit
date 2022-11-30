@@ -9,7 +9,7 @@ def main():
   st.title("Division of 2 numbers")
   html_temp = """
   <div style="background-color:tomato;padding:10px">
-  <h2 style="color:white;text-align:center;">Subtraction of 2 numbers using Streamlit</h2>
+  <h2 style="color:white;text-align:center;">Division of 2 numbers using Streamlit</h2>
   </div>
   """
   st.markdown(html_temp,unsafe_allow_html=True)
